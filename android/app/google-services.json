@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408765127096",
+    "project_id": "full-app-e2072",
+    "storage_bucket": "full-app-e2072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408765127096:android:10f6231a0cf900eae5574d",
+        "android_client_info": {
+          "package_name": "uz.robocode.zet_gram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5xv-c_yrMiM-omZmJ4k6AMe9srmgcIc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
